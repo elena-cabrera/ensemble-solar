@@ -22,4 +22,4 @@ Lo hacemos todos y consiste en entrenar y hacer gráficos de los resultados. Los
 
 ## CONCLUSIONES
 
-Lo hace Miguel Ángel y consiste en comparar los resultados obtenidos en los distintos modelos y determinar cuál es mejor para el problema.
+Lo hace Miguel Ángel y consiste en comparar los resultados obtenidos en los distintos modelos y determinar cuál es mejor para el problema. 
